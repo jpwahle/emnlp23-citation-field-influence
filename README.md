@@ -1,6 +1,6 @@
 # We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields
 [![arXiv](https://img.shields.io/badge/arXiv-2310.14870-b31b1b.svg)](https://arxiv.org/abs/2310.14870)
-[![HuggingFace Demo](https://img.shields.io/badge/🤗-Demo-ffce1c.svg)](https://huggingface.co/spaces/jpwahle/field-time-diversity)
+[![HuggingFace Demo](https://img.shields.io/badge/🤗-Demo-ffce1c.svg)](https://huggingface.co/spaces/jpwahle/field-diversity)
 
 ## The Repository
 
