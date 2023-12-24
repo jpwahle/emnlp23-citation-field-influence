@@ -59,14 +59,25 @@ There are many ways in which you can participate in this project, for example:
 
 
 ```bib
-@inproceedings{wahle-etal-2023-citation-field,
-	title        = {We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields},
-	author       = {Wahle, Jan Philip and Ruas, Terry and Abdalla, Mohamed and Gipp, Bela and Mohammad, Saif M.},
-	year         = 2023,
-	month        = dec,
-	booktitle    = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing},
-	publisher    = {Association for Computational Linguistics},
-	address      = {Singapore, Singapore}
+@inproceedings{wahle-etal-2023-cite,
+    title = "We are Who We Cite: Bridges of Influence Between Natural Language Processing and Other Academic Fields",
+    author = "Wahle, Jan Philip  and
+      Ruas, Terry  and
+      Abdalla, Mohamed  and
+      Gipp, Bela  and
+      Mohammad, Saif",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.797",
+    doi = "10.18653/v1/2023.emnlp-main.797",
+    pages = "12896--12913",
+    abstract = "Natural Language Processing (NLP) is poised to substantially influence the world. However, significant progress comes hand-in-hand with substantial risks. Addressing them requires broad engagement with various fields of study. Yet, little empirical work examines the state of such engagement (past or current). In this paper, we quantify the degree of influence between 23 fields of study and NLP (on each other). We analyzed {\textasciitilde}77k NLP papers, {\textasciitilde}3.1m citations from NLP papers to other papers, and {\textasciitilde}1.8m citations from other papers to NLP papers. We show that, unlike most fields, the cross-field engagement of NLP, measured by our proposed Citation Field Diversity Index (CFDI), has declined from 0.58 in 1980 to 0.31 in 2022 (an all-time low). In addition, we find that NLP has grown more insular{---}citing increasingly more NLP papers and having fewer papers that act as bridges between fields. NLP citations are dominated by computer science; Less than 8{\%} of NLP citations are to linguistics, and less than 3{\%} are to math and psychology. These findings underscore NLP{'}s urgent need to reflect on its engagement with various fields.",
 }
 ```
 
